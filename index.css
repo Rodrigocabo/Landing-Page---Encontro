@@ -95,3 +95,27 @@ header{
 .card img{
 width: 65px;
 }
+
+
+/*SECTION-3 */
+.section-3{
+    background-color: #1A7993 ;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+
+}
+
+.area-title-2{
+    color: #fff;
+    font-size: 30px;
+}
+
+.image2{
+    width: 280px;
+    height: auto;
+    margin-top: 5px;
+
+}
