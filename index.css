@@ -97,10 +97,13 @@ width: 65px;
 }
 
 
+
 /*SECTION-3 */
+
+
 .section-3{
     background-color: #1A7993 ;
-    height: auto;
+    height: 342px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -108,14 +111,41 @@ width: 65px;
 
 }
 
-.area-title-2{
+.area-title-2 h1{
     color: #fff;
-    font-size: 30px;
+    font-size: 35px;
 }
 
-.image2{
+.area-title-2 h3{
+
+    color: #fff;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: -26px;
+}
+.area-title-2 a{
+    display: inline-block;
+    background-color: #fff;
+    padding: 20px 85px;
+    font-size: 19px;
+    font-weight: bold; 
+    cursor: pointer;
+}
+
+.image2 img{
     width: 280px;
     height: auto;
     margin-top: 5px;
+    margin-left: 100px;
 
+}
+
+/* formulario */
+
+.area-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    flex-direction: column;
 }
